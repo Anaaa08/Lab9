@@ -55,6 +55,6 @@ console.log(wizards);
 //Question 14
 let message="Welcome to Hogwarts School of Witchcraft and Wizardry";
 let extracted=message.slice(11, 19); 
-let resultMessag =extracted.concat("Castle");
+let resultMessage=extracted.concat("Castle");
 console.log(resultMessage); 
 
